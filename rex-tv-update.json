@@ -1,8 +1,8 @@
 {
-  "versionCode": 108,
-  "versionName": "1.0.19.26",
-  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.19.26/REX_TV_1_0_19_26.apk",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "notes": "REX TV 1.0.19.26 - fondation OTA GitHub prête.",
+  "versionCode": 109,
+  "versionName": "1.0.19.27",
+  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.19.27/REX_TV_1_0_19_27.apk",
+  "sha256": "4460551326351cea742843463fc79675445ed61c76184a69a00a7d1045e678c1",
+  "notes": "REX TV 1.0.19.27 - premier test officiel OTA GitHub.",
   "mandatory": false
 }

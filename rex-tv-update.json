@@ -1,8 +1,8 @@
 {
-  "versionCode": 115,
-  "versionName": "1.0.19.33",
-  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.19.33/REX_TV_1_0_19_33.apk",
-  "sha256": "80dedf0847d9d20122787555b1c463487e3bf12b114904ca4715fc120cfd5802",
-  "notes": "REX TV 1.0.19.33 - validation du correctif Fire OS OTA.",
+  "versionCode": 124,
+  "versionName": "1.0.19.42",
+  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.19.42/REX_TV_1_0_19_42.apk",
+  "sha256": "9eb0d75fbc7da0c6de849a76ba5c0a1d0f810ec6f295c4f043360dcab6e57b0d",
+  "notes": "REX TV 1.0.19.42 - validation finale du système de mise à jour à distance.",
   "mandatory": false
 }

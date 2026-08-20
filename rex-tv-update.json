@@ -1,8 +1,8 @@
 {
-  "versionCode": 255,
-  "versionName": "1.0.20.8.31",
-  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.31/REX_TV_1_0_20_8_31.apk",
-  "sha256": "996150f6ac9ad1801b94f37e69eb53480c019ecd05c01556d04c0db0e5d0bb27",
-  "notes": "REX TV 1.0.20.8.31 - performance update : fluidite globale, navigation D-pad, caches chauds Films/Series/TV, retour Accueil accelere, fond anime optimise et stabilite Fire TV/Android TV.",
-  "mandatory": false
+    "versionCode":  261,
+    "versionName":  "1.0.20.8.37",
+    "apkUrl":  "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.37/REX_TV_1_0_20_8_37.apk",
+    "sha256":  "fea35d75e4488dc43d52ed2237f8378605bd47fdd5cdd933088edd904a8f6599",
+    "notes":  "REX TV 1.0.20.8.37 - Migration Connected : enregistrement silencieux des appareils existants dans REX Admin avec code appareil et identite cryptographique. Aucun verrouillage n\u0027est actif dans cette version. Inclut les correctifs TV, diagnostic de flux et stabilite des versions precedentes.",
+    "mandatory":  false
 }

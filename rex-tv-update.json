@@ -1,8 +1,8 @@
 {
-  "versionCode": 265,
-  "versionName": "1.0.20.8.41",
-  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.41/REX_TV_1_0_20_8_41.apk",
-  "sha256": "22c90ef0375671256135c5cea3661aece5599e7d751a4566a40059f234239264",
-  "notes": "REX TV 1.0.20.8.41 - Safe Next Episode, camera Series stabilisee, variantes et recommandations dedupliquees, nouveau REX vous recommande local. Mise a jour OTA facultative.",
+  "versionCode": 266,
+  "versionName": "1.0.20.8.42",
+  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.42/REX_TV_1_0_20_8_42.apk",
+  "sha256": "e88e5cb944e1ca54e24bbab323993153416f3f6f504080d82c004546e88d7fbc",
+  "notes": "REX TV 1.0.20.8.42 - camera Films stabilisee et affichage Plus comme ca ameliore avec titres et informations visibles. Mise a jour OTA facultative.",
   "mandatory": false
 }

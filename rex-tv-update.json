@@ -1,8 +1,8 @@
 {
-  "versionCode": 267,
-  "versionName": "1.0.20.8.43",
-  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.43/REX_TV_1_0_20_8_43.apk",
-  "sha256": "bc9386ea482e71c9e51e45ed14710560b3ddcb0b29ba0be49616364efaca32f6",
-  "notes": "REX TV 1.0.20.8.43 - connexion REX Admin, lecture en direct, etats player, buffering et telemetrie legere pour Sante REX. Mise a jour OTA facultative.",
+  "versionCode": 268,
+  "versionName": "1.0.20.8.44",
+  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.44/REX_TV_1_0_20_8_44.apk",
+  "sha256": "7146118ad9bda73c64c6089f8185b59033bc844604ae14d5fe064fdeae04e0c7",
+  "notes": "REX TV 1.0.20.8.44 - Activation REX sécurisée par code 6 chiffres pour les nouvelles installations, clients existants conservés, blocage/autorisation distant, synchronisation et vérification OTA. Mise à jour facultative.",
   "mandatory": false
 }

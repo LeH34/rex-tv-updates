@@ -1,8 +1,8 @@
 {
-  "versionCode": 268,
-  "versionName": "1.0.20.8.44",
-  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.44/REX_TV_1_0_20_8_44.apk",
-  "sha256": "7146118ad9bda73c64c6089f8185b59033bc844604ae14d5fe064fdeae04e0c7",
-  "notes": "REX TV 1.0.20.8.44 - Activation REX sécurisée par code 6 chiffres pour les nouvelles installations, clients existants conservés, blocage/autorisation distant, synchronisation et vérification OTA. Mise à jour facultative.",
+  "versionCode": 269,
+  "versionName": "1.0.20.8.45",
+  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.45/REX_TV_1_0_20_8_45.apk",
+  "sha256": "69cbec86b66a2331349777524c2f5f7690a447e8d01ec057c0d693fd2f67d938",
+  "notes": "REX TV 1.0.20.8.45 - HOME CORE FINAL : retour Accueil plus chaud, mémoire Hero et focus renforcée, reprise Films/Séries stable, curation anti-doublons. DEVICE LOCK 8.44 conservé. Mise à jour facultative.",
   "mandatory": false
 }

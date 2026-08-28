@@ -1,8 +1,8 @@
 {
-  "versionCode": 288,
-  "versionName": "1.0.20.8.64",
-  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.64/REX_TV_1_0_20_8_64.apk",
-  "sha256": "b60abcdfe129d2f1a981413b78e5825f1f3f2be8b1ef3f74d1cfa62c1b709575",
-  "notes": "REX TV 1.0.20.8.64 - PREMIUM EXPERIENCE + CINEMA SIGNATURE : nouvel accueil premium et dynamique, REX Player Premium, Recherche Universelle et Favoris finalises, Films Cinema Signature, Series polish ultra smooth, navigation et fluidite renforcees. DEVICE LOCK, REX Admin, telemetrie et Remote Control conserves. Mise a jour facultative.",
+  "versionCode": 304,
+  "versionName": "1.0.20.8.80",
+  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.80/REX_TV_1_0_20_8_80.apk",
+  "sha256": "226fa6b9cf1d2a638e68b6345b9d196d9c51ca8fb5b2897a026e61eb42e6fbe0",
+  "notes": "REX TV 1.0.20.8.80 - FINAL STABILITY + AUTO CATALOG : demarrage et navigation fortement optimises, Accueil stabilise, categories TV Films Series disponibles des le lancement, retour exact Films et Series, recherche fuzzy, Player optimise et actualisation automatique des catalogues en arriere-plan. Mise a jour OTA recommandee.",
   "mandatory": false
 }

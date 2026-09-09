@@ -4,5 +4,5 @@
   "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.89/REX_TV_1.0.20.8.89_RELEASE.apk",
   "sha256": "83163cc73c471fa524e89fdded04d1c35ca905a4f4ba19b3a9b0693e81841457",
   "notes": "REX TV 1.0.20.8.89 - mise a jour majeure : nouveau REX SPORT, rafraichissement automatique TV Films Series, nouvelles chaines et bouquets automatiques, meilleures versions HD FHD 4K, favoris TV corriges, Device Enforcement, navigation et stabilite ameliorees.",
-  "mandatory": false
+  "mandatory": true
 }

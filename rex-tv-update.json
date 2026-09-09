@@ -1,8 +1,8 @@
 {
-  "versionCode": 313,
-  "versionName": "1.0.20.8.89",
-  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.89/REX_TV_1.0.20.8.89_RELEASE.apk",
-  "sha256": "83163cc73c471fa524e89fdded04d1c35ca905a4f4ba19b3a9b0693e81841457",
-  "notes": "REX TV 1.0.20.8.89 - mise a jour majeure : nouveau REX SPORT, rafraichissement automatique TV Films Series, nouvelles chaines et bouquets automatiques, meilleures versions HD FHD 4K, favoris TV corriges, Device Enforcement, navigation et stabilite ameliorees.",
+  "versionCode": 314,
+  "versionName": "1.0.20.8.90",
+  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.90/REX_TV_1.0.20.8.90_RELEASE.apk",
+  "sha256": "e47dee10f159d93f134fb9c41d56eeead758e9cfe17e3c84b9739ec3d00da115",
+  "notes": "REX TV 1.0.20.8.90 - correctif critique OTA : focus telecommande verrouille sur la fenetre de mise a jour, bouton METTRE A JOUR directement accessible, navigation derriere bloquee. Toutes les nouveautes 8.89 sont conservees : REX SPORT, actualisation automatique TV Films Series, nouvelles chaines et bouquets, meilleures versions VOD, favoris TV et Device Enforcement.",
   "mandatory": false
 }

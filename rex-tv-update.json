@@ -1,8 +1,8 @@
 {
-  "versionCode": 319,
-  "versionName": "1.0.20.8.90.3",
-  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.90.3/REX_TV_1_0_20_8_90_3.apk",
-  "sha256": "b6d7d596a3e537350d97559df6fe1479cbe624ecd2a69ea03fa0212e639f5c4a",
-  "notes": "REX TV 1.0.20.8.90.3 - AUDIO DEVICE COMPAT + OPEN ACCESS : compatibilité audio Films/Séries améliorée, sortie PCM pour les appareils problématiques, PENDING/OBSERVED autorisés, BLOCKED via REX Admin conservé, connexion identifiant + mot de passe uniquement et serveur REX toujours caché.",
+  "versionCode": 339,
+  "versionName": "1.0.20.8.99",
+  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.0.20.8.99/REX_TV_1_0_20_8_99.apk",
+  "sha256": "REMPLACER_PAR_LE_SHA256_DE_L_APK",
+  "notes": "REX SPORT nouvelle génération : événements LIVE, vraies affiches, diffusion directe et navigation améliorée. Nouvel espace REX KIDS avec priorité HD et Full HD.",
   "mandatory": false
 }

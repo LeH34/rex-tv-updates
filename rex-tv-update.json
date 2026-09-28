@@ -1,8 +1,7 @@
 {
-  "versionCode": 348,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.1.1/REX_TV_1_1_1.apk",
-  "sha256": "0a1cd02c8b812c540cd52fbd628da36078733937ca37a8996ff56cad9260c983",
-  "notes": "REX TV 1.1.1 : SPORT toutes disciplines, detection des diffusions amelioree, compatibilite IRON et catalogue KIDS enrichi.",
+  "versionCode": 354,
+  "versionName": "1.1.7",
+  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.1.7/REX_TV_1_1_7.apk",
+  "sha256": "671bfa7e6b8a3d268b9c657d83ba8df263f54994e8d68c7da085a7b8b7b20e4f",
   "mandatory": false
 }

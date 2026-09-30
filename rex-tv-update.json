@@ -1,8 +1,8 @@
 {
-  "versionCode": 363,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.10/REX_TV_1_10.apk",
-  "sha256": "93e4e570fcf87b24e6779e3dc823ab0d0a8c0afc58a5ef7a93e6629fc5432ed2",
-  "notes": "REX TV 1.10 : stabilité générale renforcée, protections catalogue Iron, recherche HD/4K fiabilisée, REX SPORT optimisé avec préchargement complet conservé, améliorations REX KIDS, pistes audio et diagnostics Fire TV, réseau et télémétrie optimisés.",
+  "versionCode": 379,
+  "versionName": "1.26",
+  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.26/REX_TV_1_26.apk",
+  "sha256": "980cd2a4086441bdbd5076f6410f58c673ef83411842814c5410a5924ecaf855",
+  "notes": "REX TV 1.26 : HOME RAIL SNAPSHOT + SPORT COVERAGE. Corrige le décalage visuel de certains rails HOME après cold-start/hydratation. Élargit uniquement la recherche SPORT déclenchée par l’utilisateur (plus de variantes/multiplex/EPG) tout en conservant la règle stricte : aucune chaîne générique affichée sans preuve du rendez-vous. Base 1.25 conservée hors HOME/SPORT ciblé.",
   "mandatory": false
 }

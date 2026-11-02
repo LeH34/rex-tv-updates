@@ -1,7 +1,7 @@
 {
   "versionCode": 398,
   "versionName": "1.45",
-  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.45/REX_TV_1_45.apk",
+  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/1.45/REX_TV_1_45.apk",
   "sha256": "70d666a589029e6dec565846c5957ffb714da05f5ea32e73edf1f9f642b6b3e5",
   "notes": "REX TV 1.45 : habillage cinématique REX Sport / Rex Kids, vrai logo REX TV ; reprises et favoris 1.44 conservés, account binding Admin 3.2 préservé.",
   "mandatory": false

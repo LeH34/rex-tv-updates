@@ -1,8 +1,8 @@
 {
-  "versionCode": 389,
-  "versionName": "1.36",
-  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.36/REX_TV_1_36.apk",
-  "sha256": "009ad7b7c36a4afb343702d08289f3427363705d3e4d3571f0cd079c2d8db2cd",
-  "notes": "REX TV 1.36 : END CREDITS COMPLETION. Cliquer sur l’épisode suivant valide l’épisode courant comme vu avant la bascule, y compris avant 100 %. Le passage automatique applique la même règle. Les films quittés dans une zone de fin bornée sont marqués vus et retirés de Continuer à regarder. Base 1.35 conservée.",
+  "versionCode": 398,
+  "versionName": "1.45",
+  "apkUrl": "https://github.com/LeH34/rex-tv-updates/releases/download/v1.45/REX_TV_1_45.apk",
+  "sha256": "70d666a589029e6dec565846c5957ffb714da05f5ea32e73edf1f9f642b6b3e5",
+  "notes": "REX TV 1.45 : habillage cinématique REX Sport / Rex Kids, vrai logo REX TV ; reprises et favoris 1.44 conservés, account binding Admin 3.2 préservé.",
   "mandatory": false
 }
